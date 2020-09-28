@@ -10,8 +10,8 @@
     "react-dom": "^16.13.1",
     "react-lottie": "^1.2.3",
     "react-scripts": "3.4.3"
-  },"homepage" : "http://aleaker.github.io/lucianoBonoWeb",
-
+  },
+  "homepage": "http://aleaker.github.io/lucianoBonoWeb",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
