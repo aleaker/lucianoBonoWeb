@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/lucianoBonoWeb/static/js/main.8296bff2.chunk.js",
+    "main.js.map": "/lucianoBonoWeb/static/js/main.8296bff2.chunk.js.map",
+    "runtime-main.js": "/lucianoBonoWeb/static/js/runtime-main.a4abedf8.js",
+    "runtime-main.js.map": "/lucianoBonoWeb/static/js/runtime-main.a4abedf8.js.map",
+    "static/js/2.f7a2de57.chunk.js": "/lucianoBonoWeb/static/js/2.f7a2de57.chunk.js",
+    "static/js/2.f7a2de57.chunk.js.map": "/lucianoBonoWeb/static/js/2.f7a2de57.chunk.js.map",
+    "index.html": "/lucianoBonoWeb/index.html",
+    "precache-manifest.9bef1403955cba6ba343c3c1a0becaa5.js": "/lucianoBonoWeb/precache-manifest.9bef1403955cba6ba343c3c1a0becaa5.js",
+    "service-worker.js": "/lucianoBonoWeb/service-worker.js",
+    "static/js/2.f7a2de57.chunk.js.LICENSE.txt": "/lucianoBonoWeb/static/js/2.f7a2de57.chunk.js.LICENSE.txt",
+    "static/media/avionero.jpg": "/lucianoBonoWeb/static/media/avionero.c3d45c35.jpg",
+    "static/media/laCaja1.jpg": "/lucianoBonoWeb/static/media/laCaja1.6bb0a0c0.jpg",
+    "static/media/laCaja2.jpg": "/lucianoBonoWeb/static/media/laCaja2.571639e0.jpg",
+    "static/media/lego1.jpg": "/lucianoBonoWeb/static/media/lego1.099b0760.jpg",
+    "static/media/lego2.jpg": "/lucianoBonoWeb/static/media/lego2.29e33e03.jpg",
+    "static/media/luciano.png": "/lucianoBonoWeb/static/media/luciano.2e048519.png",
+    "static/media/spotify1.jpg": "/lucianoBonoWeb/static/media/spotify1.94a43aa8.jpg",
+    "static/media/spotify2.jpg": "/lucianoBonoWeb/static/media/spotify2.74d0b10d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4abedf8.js",
+    "static/js/2.f7a2de57.chunk.js",
+    "static/js/main.8296bff2.chunk.js"
+  ]
+}
